@@ -8,6 +8,7 @@ This project is modelled to mimick onboard perception of a low Earth orbit satel
 - **YOLO** for RGB based object detection
 - **3D-YOLO** for point-cloud based object detection
 - **ROS2 (Humble)**
+
 The goal is to create a power efficient, effective system in a scaled physical test bed. 
 
 ## Dependencies
