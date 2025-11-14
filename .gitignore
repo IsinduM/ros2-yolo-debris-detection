@@ -1,0 +1,39 @@
+###############################################################################
+# ROS2 WORKSPACE IGNORE RULES
+###############################################################################
+
+# Colcon build artifacts
+build/
+install/
+log/
+.colcon/
+
+# Python bytecode and cache
+**/__pycache__/
+*.pyc
+*.pyo
+*.pyd
+
+# CMake build system files
+CMakeFiles/
+CMakeCache.txt
+cmake_install.cmake
+Makefile
+
+# IDE and editor configs
+.vscode/
+.idea/
+*.swp
+*~
+
+# Python virtual environments
+venv/
+.env/
+
+# Repo metadata
+ros2.repos
+.repos/
+
+###############################################################################
+# END
+###############################################################################
